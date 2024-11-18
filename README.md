@@ -1,7 +1,6 @@
 # Fake News Classifier
 
 The **Fake News Classifier** is a machine learning model designed to detect fake news articles. It uses natural language processing (NLP) and classification techniques to distinguish between real and fake news content based on features extracted from the text.
-This uses Passive Aggressive, Logistic Regression, and Decision Tree. And we compares accuracy between the different Classifiers
 
 
 ## Features
