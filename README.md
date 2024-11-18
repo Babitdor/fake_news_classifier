@@ -1,14 +1,3 @@
-# fake_news_classifier
-
-A simple Fake News Classifier which uses Supervised Learning.
-
-This uses PassiveAggressive, Logistic Regression, and Decision Tree.
-
-And we check the Accuracy comparison between the different Classifiers
-
-The dataset was obtained from Kaggle.
-
-
 # Fake News Classifier
 
 The **Fake News Classifier** is a machine learning model designed to detect fake news articles. It uses natural language processing (NLP) and classification techniques to distinguish between real and fake news content based on features extracted from the text.
